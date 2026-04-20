@@ -1,0 +1,2 @@
+This is an example of file handling in Python.
+Understanding how to handle exceptions is crucial for writing robust code.
