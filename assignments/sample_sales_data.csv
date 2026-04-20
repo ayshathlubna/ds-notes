@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Units_Sold,Sale_Amount
+101,Laptop,Electronics,200.0,5000.0
+102,Tablet,Electronics,150.0,4000.0
+103,Monitor,Electronics,50.0,1500.0
+104,Mouse,Accessories,,2000.0
+105,Keyboard,Accessories,500.0,
+106,Phone,Electronics,450.0,12000.0

@@ -1,0 +1,42 @@
+
+The details of customer C001  is : 
+Customer id   : C001 
+Name          : Shanza 
+Location      : Chowki 
+Phone number  : 123456 
+Purchase date : 15-10-2022 
+
+The details of customer C002  is : 
+Customer id   : C002 
+Name          : Ahyaan 
+Location      : Chengala 
+Phone number  : 234567 
+Purchase date : 07-05-2022 
+
+The details of customer C003  is : 
+Customer id   : C003 
+Name          : Izyaan 
+Location      : Mangalore 
+Phone number  : 345678 
+Purchase date : 31-07-2022 
+
+The details of customer C004  is : 
+Customer id   : C004 
+Name          : Fazza 
+Location      : Pallangod 
+Phone number  : 456789 
+Purchase date : 16-03-2020 
+
+The details of customer C005  is : 
+Customer id   : C005 
+Name          : Nahzan 
+Location      : Adoor 
+Phone number  : 567890 
+Purchase date : 25-02-2022 
+
+The details of customer C006  is : 
+Customer id   : C006 
+Name          : Fathima 
+Location      : Midad nagar 
+Phone number  : 678901 
+Purchase date : 26-02-2022 
